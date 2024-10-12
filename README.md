@@ -6,7 +6,7 @@
 ## Overview
 This project involves a comprehensive analysis of Netflix's movies and TV shows data using SQL. The goal is to extract valuable insights and answer various business questions based on the dataset. The following README provides a detailed account of the project's objectives, business problems, solutions, findings, and conclusions.
 
-# link to Dashboard - https://public.tableau.com/views/Book1_17287292047080/Netflix?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+- **Dashboard Link:** [Tableau Dashboard](https://public.tableau.com/views/Book1_17287292047080/Netflix?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ![Netflix](https://github.com/user-attachments/assets/e8217730-eccf-43c1-b6f2-546122237bf2)
 
